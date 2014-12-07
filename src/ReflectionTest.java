@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 
 public class ReflectionTest {
-	//测试代码修改
 	public static void main(String[] args) {
 		String name;
 		if(args.length>0) name=args[0];
